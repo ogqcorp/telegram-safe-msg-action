@@ -7,4 +7,4 @@ function toTelegramSafeString(str) {
     return res
 }
 
-module.exports = {toTelegratemSafeString}
+module.exports = {toTelegramSafeString}
