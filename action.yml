@@ -1,4 +1,4 @@
-name: 'Safety Telegram Message'
+name: 'Safe Telegram Message'
 description: 'escape a specific string for telegram message'
 author: 'cecil1018'
 inputs:
