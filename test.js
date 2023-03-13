@@ -5,4 +5,5 @@ console.log(toTelegramSafeString(
 * asterisk \r\n\
 ` test \r\n\
 [ test \r\n\
+aaa \r\n\r\n\
 _ underline'))
